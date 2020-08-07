@@ -1,0 +1,1 @@
+default_app_config = 'check_out.apps.CheckoutConfig'
